@@ -1,1 +1,1 @@
-# connect-jenkins-to-github
+# connect-jenkins-to-githuba
